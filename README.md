@@ -1,0 +1,2 @@
+# images
+host temp images
